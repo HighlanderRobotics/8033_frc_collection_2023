@@ -1,16 +1,47 @@
-# frc_8033_collection_2023
+# 8033 FRC Collection App for 2023
 
-A new Flutter project.
+## Climbing Challenge
 
-## Getting Started
+```dart
+0 = No Climb
+1 = Failed Climb
+2 = Charged
+3 = Supported
+4 = Failed
+5 = In Community
+```
 
-This project is a starting point for a Flutter application.
+## Actions
 
-A few resources to get you started if this is your first Flutter project:
+```dart
+0 = Picked up Cube
+1 = Picked up Cone
+3 = Placed Object
+4 = Dropped Object (On Accident)
+5 = Delivered to Team
+6 = Blocked
+7 = Pinned
+8 = Entered Community
+9 = Exited Community
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Positions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```dart
+7, 8, 9
+4, 5, 6
+1, 2, 3
+```
+
+#### Auto-Specific Positions
+```dart
+10 = Crossed Cable
+11 = Crossed Charge Pad
+12 = Crossed Near Barrier
+
+## Robot Role
+0 = Offense
+1 = Defense
+2 = Mix
+3 = Feeder
+```
