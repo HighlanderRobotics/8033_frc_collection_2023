@@ -4,11 +4,10 @@
 
 ```dart
 0 = No Climb
-1 = Failed Climb
+1 = Supported
 2 = Charged
-3 = Supported
-4 = Failed
-5 = In Community
+3 = Failed
+4 = In Community
 ```
 
 ## Actions
@@ -38,10 +37,12 @@
 10 = Crossed Cable
 11 = Crossed Charge Pad
 12 = Crossed Near Barrier
+```
 
 ## Robot Role
+```dart
 0 = Offense
 1 = Defense
-2 = Mix
+2 = Mixed
 3 = Feeder
 ```
