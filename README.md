@@ -15,13 +15,13 @@
 ```dart
 0 = Picked up Cube
 1 = Picked up Cone
-3 = Placed Object
-4 = Dropped Object (On Accident)
-5 = Delivered to Team
-6 = Blocked
-7 = Pinned
-8 = Entered Community
-9 = Exited Community
+2 = Placed Object
+3 = Dropped Object (On Accident)
+4 = Delivered to Team
+5 = Blocked
+6 = Pinned
+7 = Entered Community
+8 = Exited Community
 ```
 
 ## Positions
