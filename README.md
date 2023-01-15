@@ -16,7 +16,7 @@
 0 = Picked up Cube
 1 = Picked up Cone
 2 = Placed Object
-3 = Dropped Object (On Accident)
+3 = Dropped Object
 4 = Delivered to Team
 5 = Blocked
 6 = Pinned
