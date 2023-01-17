@@ -22,6 +22,9 @@
 6 = Pinned
 7 = Entered Community
 8 = Exited Community
+
+9  = Robot Becomes Immobile
+10 = Robot Becomes Mobile
 ```
 
 ## Positions
