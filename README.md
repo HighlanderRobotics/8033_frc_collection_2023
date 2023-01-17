@@ -23,8 +23,8 @@
 7 = Entered Community
 8 = Exited Community
 
-9  = Robot Becomes Immobile
-10 = Robot Becomes Mobile
+9  = Becomes Immobile
+10 = Becomes Mobile
 ```
 
 ## Positions
